@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\TEST_Assignment\TEST_Assignment\bin\Debug\TEST_Assignment.exe.config
+C:\Users\HP\source\repos\TEST_Assignment\TEST_Assignment\bin\Debug\TEST_Assignment.exe
+C:\Users\HP\source\repos\TEST_Assignment\TEST_Assignment\bin\Debug\TEST_Assignment.pdb
+C:\Users\HP\source\repos\TEST_Assignment\TEST_Assignment\obj\Debug\TEST_Assignment.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TEST_Assignment\TEST_Assignment\obj\Debug\TEST_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TEST_Assignment\TEST_Assignment\obj\Debug\TEST_Assignment.exe
+C:\Users\HP\source\repos\TEST_Assignment\TEST_Assignment\obj\Debug\TEST_Assignment.pdb
+C:\Users\HP\source\repos\TEST_Assignment\TEST_Assignment\bin\Debug\TEST_VALIDATION_28.dll
+C:\Users\HP\source\repos\TEST_Assignment\TEST_Assignment\bin\Debug\TEST_VALIDATION_28.pdb
+C:\Users\HP\source\repos\TEST_Assignment\TEST_Assignment\obj\Debug\TEST_Ass.B830D3F0.Up2Date

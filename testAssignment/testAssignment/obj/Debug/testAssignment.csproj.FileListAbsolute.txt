@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\testAssignment\testAssignment\bin\Debug\testAssignment.exe.config
+C:\Users\HP\source\repos\testAssignment\testAssignment\bin\Debug\testAssignment.exe
+C:\Users\HP\source\repos\testAssignment\testAssignment\bin\Debug\testAssignment.pdb
+C:\Users\HP\source\repos\testAssignment\testAssignment\obj\Debug\testAssignment.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\testAssignment\testAssignment\obj\Debug\testAssignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\testAssignment\testAssignment\obj\Debug\testAssignment.exe
+C:\Users\HP\source\repos\testAssignment\testAssignment\obj\Debug\testAssignment.pdb
